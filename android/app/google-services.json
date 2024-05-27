@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "569961050796",
+    "project_id": "chadifooddelivery",
+    "storage_bucket": "chadifooddelivery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569961050796:android:41a6225426d7cc710ea509",
+        "android_client_info": {
+          "package_name": "com.example.restau"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPZGY1-ZnvUjkTAhFR_3pR_oKiJ-kWCTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
